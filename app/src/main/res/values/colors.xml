@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main App Colors -->
+    <color name="colorPrimary">#6200EE</color>        <!-- Deep Purple -->
+    <color name="colorPrimaryVariant">#3700B3</color> <!-- Darker Purple -->
+    <color name="colorSecondary">#03DAC5</color>      <!-- Teal Blue -->
+
+    <!-- Background and Text -->
+    <color name="colorBackground">#FFFFFF</color>    <!-- White -->
+    <color name="colorTextPrimary">#000000</color>   <!-- Black -->
+    <color name="colorTextSecondary">#757575</color> <!-- Grey -->
+
+    <!-- Splash Screen Background -->
+    <color name="colorSplashBackground">#6200EE</color> <!-- Purple for Splash -->
+</resources>
